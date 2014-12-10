@@ -1,0 +1,5 @@
+D:\Benazir\PrintNumbersApp\PrintNumbersApp\bin\Debug\PrintNumbersApp.exe.config
+D:\Benazir\PrintNumbersApp\PrintNumbersApp\bin\Debug\PrintNumbersApp.exe
+D:\Benazir\PrintNumbersApp\PrintNumbersApp\bin\Debug\PrintNumbersApp.pdb
+D:\Benazir\PrintNumbersApp\PrintNumbersApp\obj\Debug\PrintNumbersApp.exe
+D:\Benazir\PrintNumbersApp\PrintNumbersApp\obj\Debug\PrintNumbersApp.pdb

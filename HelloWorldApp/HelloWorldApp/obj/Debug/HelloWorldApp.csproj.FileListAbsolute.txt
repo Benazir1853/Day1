@@ -1,0 +1,6 @@
+D:\Benazir\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+D:\Benazir\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+D:\Benazir\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+D:\Benazir\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+D:\Benazir\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+D:\Benazir\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

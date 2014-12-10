@@ -1,0 +1,5 @@
+D:\Benazir\StringInputApp\StringInputApp\bin\Debug\StringInputApp.exe.config
+D:\Benazir\StringInputApp\StringInputApp\bin\Debug\StringInputApp.exe
+D:\Benazir\StringInputApp\StringInputApp\bin\Debug\StringInputApp.pdb
+D:\Benazir\StringInputApp\StringInputApp\obj\Debug\StringInputApp.exe
+D:\Benazir\StringInputApp\StringInputApp\obj\Debug\StringInputApp.pdb

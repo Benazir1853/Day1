@@ -1,0 +1,5 @@
+D:\Benazir\PrintEvenNumbersApp\PrintEvenNumbersApp\bin\Debug\PrintEvenNumbersApp.exe.config
+D:\Benazir\PrintEvenNumbersApp\PrintEvenNumbersApp\bin\Debug\PrintEvenNumbersApp.exe
+D:\Benazir\PrintEvenNumbersApp\PrintEvenNumbersApp\bin\Debug\PrintEvenNumbersApp.pdb
+D:\Benazir\PrintEvenNumbersApp\PrintEvenNumbersApp\obj\Debug\PrintEvenNumbersApp.exe
+D:\Benazir\PrintEvenNumbersApp\PrintEvenNumbersApp\obj\Debug\PrintEvenNumbersApp.pdb

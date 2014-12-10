@@ -1,0 +1,6 @@
+D:\Benazir\EnvironmentalVariableApp\EnvironmentalVariableApp\bin\Debug\EnvironmentalVariableApp.exe.config
+D:\Benazir\EnvironmentalVariableApp\EnvironmentalVariableApp\obj\Debug\EnvironmentalVariableApp.csprojResolveAssemblyReference.cache
+D:\Benazir\EnvironmentalVariableApp\EnvironmentalVariableApp\bin\Debug\EnvironmentalVariableApp.exe
+D:\Benazir\EnvironmentalVariableApp\EnvironmentalVariableApp\bin\Debug\EnvironmentalVariableApp.pdb
+D:\Benazir\EnvironmentalVariableApp\EnvironmentalVariableApp\obj\Debug\EnvironmentalVariableApp.exe
+D:\Benazir\EnvironmentalVariableApp\EnvironmentalVariableApp\obj\Debug\EnvironmentalVariableApp.pdb

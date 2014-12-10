@@ -1,0 +1,6 @@
+D:\Benazir\ComparisonApp\ComparisonApp\bin\Debug\ComparisonApp.exe.config
+D:\Benazir\ComparisonApp\ComparisonApp\obj\Debug\ComparisonApp.csprojResolveAssemblyReference.cache
+D:\Benazir\ComparisonApp\ComparisonApp\bin\Debug\ComparisonApp.exe
+D:\Benazir\ComparisonApp\ComparisonApp\bin\Debug\ComparisonApp.pdb
+D:\Benazir\ComparisonApp\ComparisonApp\obj\Debug\ComparisonApp.exe
+D:\Benazir\ComparisonApp\ComparisonApp\obj\Debug\ComparisonApp.pdb
